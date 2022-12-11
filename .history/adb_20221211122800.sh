@@ -1,0 +1,5 @@
+function startAdb{
+    calc
+}
+
+startAdb
